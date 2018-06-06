@@ -1,0 +1,20 @@
+/* pages/goods-details/index.wxss */
+.container {
+  background-color: #F2f2f2;
+  min-height: 100%;
+  padding-bottom: 100rpx;
+}
+.swiper-container{
+  width: 750rpx;
+  position: relative;  
+}
+.swiper_box {
+   width: 750rpx;
+  height:748rpx;
+}
+swiper-item image {
+  width: 750rpx;
+  display: inline-block;
+  overflow: hidden;
+  height:748rpx;
+}
